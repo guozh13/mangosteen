@@ -19,3 +19,4 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 tips：修复上次提交， 正常commti后 加 --amend 
 字体设置 gg：fonts css github
+统计代码 cloc --vcs=git
