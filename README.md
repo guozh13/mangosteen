@@ -18,3 +18,4 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
 
 tips：修复上次提交， 正常commti后 加 --amend 
+字体设置 gg：fonts css github
